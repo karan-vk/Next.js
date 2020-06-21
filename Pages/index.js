@@ -26,4 +26,5 @@ class indexPage extends Component {
     );
   }
 }
+
 export default indexPage;
