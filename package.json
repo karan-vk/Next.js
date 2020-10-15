@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/karan-vk/Next.js#readme",
   "dependencies": {
-    "next": "^9.5.3",
+    "next": "^9.5.4",
     "react": "^16.14.0",
     "react-dom": "^16.13.1"
   }
